@@ -1,4 +1,4 @@
-**first semester C Project**
+**first C Project**
 
 
 **C 1402 - Tabriz University**
